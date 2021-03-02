@@ -97,7 +97,7 @@ def sample_pagerank(corpus, damping_factor, n):
     return page_ranks
     #raise NotImplementedError
 
-corp=input('Choose a dictionary of HTML pages (corpus1, corpus0, or corpus3): ')
+corp=input('Choose a dictionary of HTML pages (corpus0, corpus1, or corpus2): ')
 
 if __name__ == "__main__":
     main()
